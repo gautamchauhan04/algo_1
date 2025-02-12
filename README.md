@@ -1,4 +1,4 @@
-# algo_1
+# algo_1-
 This provides an more optimized subset of Java Collection. This API might not contains all the bells and wistles of collectios but by doing few basic taskes it does them in an more optimized way. It provides a user with more options then collection like in sorting, it enable user to choose any of merge sort, quick sort or insertion sort.
 </br> Following are the data structures provided: 
 All the Data structures mentioned below provides implements generics allowing user to store any data type.
